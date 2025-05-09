@@ -1,4 +1,3 @@
-﻿Column1,Column2,Column3
 source,target,relation
 N1,N2,contains
 N1,N3,contains
